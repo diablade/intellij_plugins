@@ -13,6 +13,6 @@ Features
 
 Planned Features
 ----------------
-- Export REST services on different formats such  as html, csv, txt
+- Export REST services on different formats such  as html, csv, txt, and POSTMAN collection !
 - Update the tree when services are commented out or deleted.
 
